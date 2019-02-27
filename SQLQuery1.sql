@@ -1,0 +1,17 @@
+Create Table Magic_Colletion_Depth  
+                    (CardName varchar(50)  Not NULL Foreign KEY REFERENCES dbo.Magic_Collection_Base(CardName),  
+                Release varchar(50) NULL,           
+                Color varchar(50) NULL, 
+                CardType varchar(50) NULL,                            
+                ColorType varchar(50) NULL,                       
+                TotalCost Int NULL, 
+                ColorCost Int NULL, 
+                ColorlessCost Int NULL, 
+                SuperType varchar(50) null, 
+                Subtype varchar(50) null, 
+                Abilities varchar(1000) null, 
+                FlavorText varchar(1000),
+                Power Int null, 
+                Toughness Int null, 
+                QTY Int null, 
+                Storage varchar(1000));

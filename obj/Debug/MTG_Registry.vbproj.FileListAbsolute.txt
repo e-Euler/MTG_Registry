@@ -1,0 +1,91 @@
+C:\Users\jasonvaf\Desktop\MTG_Registry\obj\Debug\MTG_Registry.Form1.resources
+C:\Users\jasonvaf\Desktop\MTG_Registry\obj\Debug\MTG_Registry.Resources.resources
+C:\Users\jasonvaf\Desktop\MTG_Registry\obj\Debug\MTG_Registry.MyCollection.resources
+C:\Users\jasonvaf\Desktop\MTG_Registry\obj\Debug\MTG_Registry.SplashScreen1.resources
+C:\Users\jasonvaf\Desktop\MTG_Registry\obj\Debug\MTG_Registry.vbproj.GenerateResource.Cache
+C:\Users\jasonvaf\Desktop\MTG_Registry\bin\Debug\MyCollection.mdb
+C:\Users\jasonvaf\Desktop\MTG_Registry\bin\Debug\MTG_Registry.exe.config
+C:\Users\jasonvaf\Desktop\MTG_Registry\bin\Debug\MTG_Registry.exe
+C:\Users\jasonvaf\Desktop\MTG_Registry\bin\Debug\MTG_Registry.pdb
+C:\Users\jasonvaf\Desktop\MTG_Registry\bin\Debug\MTG_Registry.xml
+C:\Users\jasonvaf\Desktop\MTG_Registry\obj\Debug\MTG_Registry.exe
+C:\Users\jasonvaf\Desktop\MTG_Registry\obj\Debug\MTG_Registry.xml
+C:\Users\jasonvaf\Desktop\MTG_Registry\obj\Debug\MTG_Registry.pdb
+C:\Users\jasonvaf\Desktop\MTG_Registry\obj\Debug\MTG_Registry.vbprojResolveAssemblyReference.cache
+C:\Users\jasonvaf\Desktop\MTG_Registry\obj\Debug\MTG_Registry.frmCardvb.resources
+C:\Users\jasonvaf\Desktop\MTG_Registry\bin\Debug\MTG_Registry.exe.manifest
+C:\Users\jasonvaf\Desktop\MTG_Registry\bin\Debug\MTG_Registry.application
+C:\Users\jasonvaf\Desktop\MTG_Registry\obj\Debug\MTG_Registry.exe.manifest
+C:\Users\jasonvaf\Desktop\MTG_Registry\obj\Debug\MTG_Registry.application
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\bin\Debug\MTG_Registry.exe.config
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.exe
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.xml
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.pdb
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\bin\Debug\MyCollection.mdb
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\bin\Debug\MTG_Registry.exe.manifest
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\bin\Debug\MTG_Registry.application
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\bin\Debug\MTG_Registry.exe
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\bin\Debug\MTG_Registry.pdb
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\bin\Debug\MTG_Registry.xml
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.vbprojResolveAssemblyReference.cache
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.Form1.resources
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.frmCardvb.resources
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.GameChoice.resources
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.Resources.resources
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.MyCollection.resources
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.SplashScreen1.resources
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.vbproj.GenerateResource.Cache
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.exe.manifest
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.application
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.PokemonCollection.resources
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.PokemonEntry.resources
+C:\Users\jasonvaf\Desktop\Desktop Stuff\MTG_Registry\obj\Debug\MTG_Registry.YugiohEntry.resources
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\bin\Debug\MTG_Registry.exe.config
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.exe
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.xml
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.pdb
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.vbprojResolveAssemblyReference.cache
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.Form1.resources
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.frmCardvb.resources
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.GameChoice.resources
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.Resources.resources
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.MyCollection.resources
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.PokemonCollection.resources
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.PokemonEntry.resources
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.SplashScreen1.resources
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.YugioCollection.resources
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.YugiohEntry.resources
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.vbproj.GenerateResource.Cache
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\bin\Debug\MyCollection.mdb
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\bin\Debug\MTG_Registry.exe.manifest
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\bin\Debug\MTG_Registry.application
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\bin\Debug\MTG_Registry.exe
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\bin\Debug\MTG_Registry.pdb
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\bin\Debug\MTG_Registry.xml
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.exe.manifest
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.application
+H:\MTG_Registry\bin\Debug\MTG_Registry.exe.config
+H:\MTG_Registry\obj\Debug\MTG_Registry.exe
+H:\MTG_Registry\obj\Debug\MTG_Registry.xml
+H:\MTG_Registry\obj\Debug\MTG_Registry.pdb
+H:\MTG_Registry\bin\Debug\MyCollection.mdb
+H:\MTG_Registry\bin\Debug\MTG_Registry.exe.manifest
+H:\MTG_Registry\bin\Debug\MTG_Registry.application
+H:\MTG_Registry\bin\Debug\MTG_Registry.exe
+H:\MTG_Registry\bin\Debug\MTG_Registry.pdb
+H:\MTG_Registry\bin\Debug\MTG_Registry.xml
+H:\MTG_Registry\obj\Debug\MTG_Registry.vbprojResolveAssemblyReference.cache
+H:\MTG_Registry\obj\Debug\MTG_Registry.Form1.resources
+H:\MTG_Registry\obj\Debug\MTG_Registry.frmCardvb.resources
+H:\MTG_Registry\obj\Debug\MTG_Registry.GameChoice.resources
+H:\MTG_Registry\obj\Debug\MTG_Registry.Resources.resources
+H:\MTG_Registry\obj\Debug\MTG_Registry.MyCollection.resources
+H:\MTG_Registry\obj\Debug\MTG_Registry.PokemonCollection.resources
+H:\MTG_Registry\obj\Debug\MTG_Registry.PokemonEntry.resources
+H:\MTG_Registry\obj\Debug\MTG_Registry.SplashScreen1.resources
+H:\MTG_Registry\obj\Debug\MTG_Registry.YugioCollection.resources
+H:\MTG_Registry\obj\Debug\MTG_Registry.YugiohEntry.resources
+H:\MTG_Registry\obj\Debug\MTG_Registry.vbproj.GenerateResource.Cache
+H:\MTG_Registry\obj\Debug\MTG_Registry.exe.manifest
+H:\MTG_Registry\obj\Debug\MTG_Registry.application
+C:\Users\jasonvaf\Documents\Current Projects\MTG_Registry\obj\Debug\MTG_Registry.PokemonCard.resources

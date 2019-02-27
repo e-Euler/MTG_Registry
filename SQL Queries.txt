@@ -1,0 +1,74 @@
+
+Create Table Magic_Collection_Base (CardName varchar(50) Not NULL Primary KEY, Release varchar(50) NULL, Color varchar(50) NULL, CardType varchar(50) NULL);
+
+
+Create Table Create Table Magic_Colletion_Depth  
+                    (CardName varchar(50)  Not NULL Foreign KEY REFERENCES dbo.Magic_Collection_Base(CardName),  
+                Release varchar(50) NULL,           
+                Color varchar(50) NULL, 
+                CardType varchar(50) NULL,                            
+                ColorType varchar(50) NULL,                       
+                TotalCost Int NULL, 
+                ColorCost Int NULL, 
+                ColorlessCost Int NULL, 
+                SuperType varchar(50) null, 
+                Subtype varchar(50) null, 
+                Text varchar(1000) null, 
+                FlavorText varchar(1000),
+                Power Int null, 
+                Toughness Int null, 
+                QTY Int null, 
+                Storage varchar(1000));
+
+ Create Table Pokemon_Collection_Base  
+                    (CardName varchar(50) Not Null Primary Key,  
+                    Release varchar(50) NULL, 
+                    Element varchar(50) NULL,
+                    CardType varchar(50));
+
+Create Table Pokemon_Collection_Depth  
+                    (CardName varchar(50) Not Null Foreign Key REFERENCES dbo.Pokemon_Collection_Base(CardName),  
+                    Release varchar(50) Null,  
+                    Element varchar(50) Null,
+                    TypeMakeup varchar(50) Null,  
+                    Stage varchar(50) Null,
+                    Ability_Effect varchar(1000) Null,  
+                    Attack1Name varchar(50) Null,
+                    Attack1Cost int  Null,  
+                    Attack1Power Int  Null,
+                    Attack1Text varchar(1000)  Null,  
+                    Attack2Name varchar(50)  Null,
+                    Attack2Cost int  Null,  
+                    Attack2Power Int  Null,
+                    Attack2Text varchar(1000) Null,  
+                    Attack3Name varchar(50) Null,
+                    Attack3Cost int Null,  
+                    Attack3Power Int Null,
+                    Attack3Text varchar(1000) Null,  
+                    HP Int Null,
+                    RetreatCost int Null,  
+                    Storage varchar(1000) Null,
+                    Weakness varchar(50) Null,  
+                    Resistance varchar(50) Null,
+                    Qty int Null);
+
+
+Create Table Yugioh_Collection_Base  
+                (CardName varchar(50) Primary Key Not Null,  
+                Release varchar(50) Null, 
+                Element varchar(50) Null,
+                CardType varchar(50) Null); 
+
+
+Create Table Yugioh_Collection_Depth  
+                    (CardName varchar(50) Not Null Foreign Key REFERENCES dbo.Yugioh_Collection_Base(CardName),  
+                    Release varchar(50) Null,  
+                    Element varchar(50) Null,
+                    CardType varchar(50) Null,  
+                    Cost Int Null,
+                    Type varchar(100) Null,  
+                    Text Varchar(1000) Null,
+                    Attack int Null,  
+                    Defense Int Null,
+                    Qty int Null,  
+                    Storage varchar(1000) Null);
