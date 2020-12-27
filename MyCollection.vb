@@ -1,13 +1,14 @@
 ﻿Imports System.Data
-Imports System.Data.SqlClient
+Imports System.Data.OleDb.OleDbConnection
 Public Class MyCollection
     'setup for use of sql queries to populate the dgv
     Dim mycollectionset As New DataSet()
-    Dim mycollectiontable As String = "Magic_Colletion_Depth"
-    Dim connectionstring As String = "Data Source=gaming.tstc.edu;Initial Catalog=JPhillipsPROJ1ITSE2334;User ID=jphillips; Password=1574438"
-    Dim mycollectionconnection As New SqlConnection(connectionstring)
-    Dim mycollectionadapter As New SqlDataAdapter()
-    Dim command As SqlCommand
+    Dim mycollectiontable As String = "Collection"
+    'Dim connectionstring  As String = "Data Source=gaming.tstc.edu;Initial Catalog=JPhillipsPROJ1ITSE2334;User ID=jphillips; Password=1574438" 
+    ReadOnly connectionstring As String = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\MyCollection.mdb"
+    Dim mycollectionconnection As New OleDb.OleDbConnection(connectionstring)
+    Dim mycollectionadapter As New OleDb.OleDbDataAdapter()
+    Dim command As OleDb.OleDbCommand
     Dim query As String = ""
     Private Sub MyCollection_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         'setup back door sql section
@@ -17,15 +18,15 @@ Public Class MyCollection
         query = "Select * from " + mycollectiontable
         cbxFilterMethod.SelectedText = "Color"
         Try
-            command = New SqlCommand(query, mycollectionconnection)
+            command = New OleDb.OleDbCommand(query, mycollectionconnection)
             mycollectionadapter.SelectCommand = command
             mycollectionconnection.Open()
             mycollectionset.Clear()
             mycollectionadapter.Fill(mycollectionset, mycollectiontable)
             mycollectionconnection.Close()
         Catch ex As Exception
-            MessageBox.Show("Database connection problems!" + ex.ToString(), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
-
+            MessageBox.Show("Database connection problems!" + vbCrLf + ex.ToString(), vbCrLf + "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            'MessageBox.Show("Database connection problems!")
         End Try
         'set format of form for quality viewing
         dgvMyCollection.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill
@@ -146,7 +147,7 @@ Public Class MyCollection
         'after query is built submit it to the database
         Try
             mycollectionconnection.Close()
-            command = New SqlCommand(query, mycollectionconnection)
+            command = New OleDb.OleDbCommand(query, mycollectionconnection)
             mycollectionadapter.SelectCommand = command
             mycollectionconnection.Open()
             mycollectionset.Clear()
